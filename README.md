@@ -19,7 +19,7 @@ date-pick.js
 Next, include the below line of code in any HTML file you intend to use this date picker:
 
 ````
-<input id="date-picker-input" class="date-input center-block" type="text" placeholder="Input a date"/>
+<input id="date-picker-input" class="date-input" type="text" placeholder="Input a date"/>
 ````
 
 Finally, give the input element that will be displaying the output of the date picker the below ID:
