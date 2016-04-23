@@ -49,7 +49,7 @@ To use your own font in the project, change the font family in the "#date-pick-c
 
 The MIT License
 
-Copyright (c) 2010-2016 Danny Pule, Inc. http://www.dannypule.com
+Copyright (c) 2015-2016 Danny Pule, Inc. http://www.dannypule.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
