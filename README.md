@@ -1,6 +1,6 @@
 # Vanilla Javascript Date Picker
-A date picker based on Material Design using vanilla javascript. 
-By Danny Pule 
+An open source date picker based on Material Design using vanilla javascript. 
+Project initiated by Danny Pule www.dannypule.com
 
 ## -- STILL IN DEVELOPMENT --
 
