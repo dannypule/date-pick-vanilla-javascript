@@ -1,6 +1,6 @@
 # date-pick-vanilla-javascript
 A date picker based on Material Design using vanilla javascript. 
-By Danny Pule
+By Danny Pule --- STILL UNDER DEVELOPMENT
 
  It can be used in any javascript based project and only has only one dependency which is the Roboto Google Font which is loaded using Javascript. To remove this font and use your own, see the below instructions in the 'Removing Roboto Font' section. 
  
